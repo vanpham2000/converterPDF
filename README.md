@@ -1,7 +1,7 @@
 # ** PDF converter Desktop App**
 **Description of program:**
 converting word docx to pdf
-
+converting pdf  to docx
 ## **Steps to get the program going:**
 
 1. git clone down the project or download down the project directory
