@@ -31,6 +31,7 @@ python main.py
 ## **packages use include:** ( note: if there any other package need then i will modiify this)
 * docx2pdf
 * customtkinter
+* pdf2docx
 
 ## **images:**
 **image1:**
